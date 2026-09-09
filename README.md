@@ -21,8 +21,8 @@ Développé par [LAirHisson](https://www.youtube.com/@LAirHisson).
 ## Installation
 
 ```bash
-npm install
-npm run dev
+npm.cmd install
+npm.cmd run dev
 ```
 
 Ouvre `http://localhost:5173`. `npm run build` produit un export statique dans
